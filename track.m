@@ -17,3 +17,5 @@ end
 %plot(difx(1:100),dify(1:100))
 f1 =figure;
 plot(xm,delta_ang)
+f2=figure;
+plot(distancem,delta_ang)
